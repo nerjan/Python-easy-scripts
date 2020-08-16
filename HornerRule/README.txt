@@ -1,0 +1,1 @@
+Program which utilize horner`s method to calculate roots of polynomials, here works perfectly for polynomilas up to 3rd degree.
