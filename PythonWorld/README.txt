@@ -1,0 +1,1 @@
+Bigger project which base on some already made code. The task was to add a bunch of new organisms extending base classes and defining their behaviour.
