@@ -1,0 +1,1 @@
+Program which reads points of polynomial and calculate the best equation for it then draws this polynomial on graph.
